@@ -1,0 +1,8 @@
+{
+    "build": {
+      "ignore": [
+        "node_modules/pdf-parse/test/**/*"
+      ]
+    }
+  }
+  
